@@ -1,0 +1,118 @@
+{
+  "carBrandProfile": {
+    "data": {
+      "contents": [
+        {
+          "cols": [
+            {
+              "component": [
+                {
+                  "componentName": "SWITCH",
+                  "handlerFunction": "onHandleSwitchActiveStatus",
+                  "handlerFunctionParams": {
+                    "brandName": "BUS-1",
+                    "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503",
+                    "status": true
+                  },
+                  "switchCheckedStatus": true
+                }
+              ],
+              "content": "Aktif"
+            },
+            {
+              "content": "1"
+            },
+            {
+              "content": "BUS-1"
+            }
+          ],
+          "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503"
+        },
+        {
+          "cols": [
+            {
+              "component": [
+                {
+                  "componentName": "SWITCH",
+                  "handlerFunction": "onHandleSwitchActiveStatus",
+                  "handlerFunctionParams": {
+                    "brandName": "BUS-3",
+                    "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503",
+                    "status": true
+                  },
+                  "switchCheckedStatus": true
+                }
+              ],
+              "content": "Aktif"
+            },
+            {
+              "content": "3"
+            },
+            {
+              "content": "BUS-3"
+            }
+          ],
+          "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503"
+        },
+        {
+          "cols": [
+            {
+              "component": [
+                {
+                  "componentName": "SWITCH",
+                  "handlerFunction": "onHandleSwitchActiveStatus",
+                  "handlerFunctionParams": {
+                    "brandName": "BUS-2",
+                    "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503",
+                    "status": true
+                  },
+                  "switchCheckedStatus": true
+                }
+              ],
+              "content": "Aktif"
+            },
+            {
+              "content": "2"
+            },
+            {
+              "content": "BUS-2"
+            }
+          ],
+          "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503"
+        },
+        {
+          "cols": [
+            {
+              "component": [
+                {
+                  "componentName": "SWITCH",
+                  "handlerFunction": "onHandleSwitchActiveStatus",
+                  "handlerFunctionParams": {
+                    "brandName": "BUS-4",
+                    "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503",
+                    "status": true
+                  },
+                  "switchCheckedStatus": true
+                }
+              ],
+              "content": "Aktif"
+            },
+            {
+              "content": "4"
+            },
+            {
+              "content": "BUS-4"
+            }
+          ],
+          "id": "6db381c0-fa91-4862-9fa4-0e4d213d9503"
+        }
+      ],
+      "isFirstPage": true,
+      "isLastPage": false,
+      "pagingState": "003500100f000854494b4554434f4d00000100001a00074879756e64616910ecb3b38b5a364902992024e10257442cf07ffffff5f07ffffff5c4c66f2e514fff70b4414c359a2a29300004",
+      "totalPages": 3
+    },
+    "loaded": true,
+    "loading": false
+  }
+}
